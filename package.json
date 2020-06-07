@@ -1,8 +1,8 @@
 {
   "name": "testtaskmicroit",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "test task for micro-it.ru",
+  "main": "server.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -12,7 +12,7 @@
     "localShow": "pm2 show ssr",
     "test": "jest"
   },
-  "author": "",
+  "author": "Automedon",
   "license": "ISC",
   "dependencies": {
     "@apollo/react-hooks": "latest",
