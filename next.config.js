@@ -1,0 +1,6 @@
+module.exports = {
+  env: {
+    JWT_REFRESH_TOKEN_SECRET: "REFRESH_TOKEN_SECRET",
+    JWT_ACCESS_TOKEN_SECRET: "ACCESS_TOKEN_SECRET",
+  },
+};
